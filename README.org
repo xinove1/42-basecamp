@@ -3,12 +3,18 @@
 * A compilation of my project as a 42 SP student
 basecamp projetcs will be in this repo.
 
-| Project | Date | Grade    |
-|---------+------+----------|
-| Shell00 |      |          |
-| Shell01 |      |          |
-| C00     |      |          |
-| C01     |      |          |
-| C02     |      |          |
-| C03     |      |          |
-| C04     |      | Ungraded |
+| Project       | Date | Grade    |
+|---------------+------+----------|
+| Shell00       |      | ✅ 100   |
+| Shell01       |      | ✅ 100   |
+| C00           |      | ✅ 100   |
+| C01           |      | ✅ 100   |
+| C02           |      | ✅  50   |
+| C03           |      | ✅   75  |
+| C04           |      | Ungraded |
+| Rush00        |      | 0        |
+| Rush01        |      | 0        |
+| [[https://github.com/xinove1/libft][Libft]]         |      | ✅ 125   |
+| [[https://github.com/xinove1/get_next_line][get_next_line]] |      | ✅ 125   |
+| [[https://github.com/xinove1/printf][printf]]        |      |          |
+
