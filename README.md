@@ -3,7 +3,7 @@
 basecamp projetcs will be in this repo.
 
 | Project       | Grade    |
-|--------------------------|
+|---------------|----------|
 | Shell00       | ✅ 100   |
 | Shell01       | ✅ 100   |
 | C00           | ✅ 100   |
