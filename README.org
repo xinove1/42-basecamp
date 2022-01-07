@@ -13,5 +13,5 @@ basecamp projetcs will be in this repo.
 | Rush00        | 0        |
 | Rush01        | 0        |
 | [[https://github.com/xinove1/libft][Libft]]         |          |
-| [[https://github.com/xinove1/get_next_line][get_next_line]] | [[https://badge42.herokuapp.com/api/project/nthomas-/get_next_line][gnl]]      |
+| [[https://github.com/xinove1/get_next_line][get_next_line]] | ([https://badge42.herokuapp.com/api/project/nthomas-/get_next_line][gnl])       |
 | [[https://github.com/xinove1/printf][printf]]        | [[https://badge42.herokuapp.com/api/project/nthomas-/ft_printf][printf]]   |
